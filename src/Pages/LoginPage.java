@@ -7,6 +7,7 @@ public class LoginPage {
 	{
 			String pwd = "1234@qwer";
 			String username= "abc@gamil.com";
-			
+			System.out.println("correct password");
+			System.out.println("correct username");
 	}
 }
