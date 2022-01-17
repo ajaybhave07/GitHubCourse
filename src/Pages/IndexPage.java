@@ -8,6 +8,8 @@ public class IndexPage {
 		System.out.println("login button added");
 		
 		System.out.println("forgot password added");
+		
+		System.out.println("added for fetch and merge concept");
 	}
 	
 	
