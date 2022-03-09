@@ -12,12 +12,4 @@ public class RegPage {
 	{
 		System.out.println("part - 2");
 	}
-	
-	
-	
-	public void regForm2()
-	{
-	System.out.println("added by mistake");
-	}
 }
-
